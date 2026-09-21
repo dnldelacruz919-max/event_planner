@@ -48,7 +48,7 @@ const EventPlanner = () => {
 
                 {/* Event planner features section */}
                     <section className="features">
-                
+                                       
                     <h1>Features</h1>
 
                     <ul>
@@ -60,7 +60,8 @@ const EventPlanner = () => {
                     </ul>
                 </section>
                 
-                <section className="testimonials">
+                  {/* Testimonials section */}
+                    <section className="testimonials">
                     <h1>Testimonials</h1>
 
                     <div>
