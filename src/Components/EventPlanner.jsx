@@ -20,7 +20,7 @@ const EventPlanner = () => {
         
             {/* Event categories section */}
             <section className="events_categories">
-
+                 {/* Three event categories  */}
                 <ul>
                     <h2>Personal Events</h2>
                     <li>Birthday Parties</li>
