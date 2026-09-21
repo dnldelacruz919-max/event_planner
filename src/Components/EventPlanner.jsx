@@ -48,7 +48,7 @@ const EventPlanner = () => {
 
                 {/* Event planner features section */}
                     <section className="features">
-                                       
+
                     <h1>Features</h1>
 
                     <ul>
@@ -70,6 +70,7 @@ const EventPlanner = () => {
                         <p>- Maria Santos</p>
                     </div>
 
+                    {/* Second testimonial */}
                     <div>
                         <h2>Highly Recommended!</h2>
                         <p>The event planner made our celebration easy and memorable.</p>
