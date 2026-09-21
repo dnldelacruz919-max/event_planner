@@ -46,7 +46,9 @@ const EventPlanner = () => {
                 </ul>
                 </section>
 
-                <section className="features">
+                {/* Event planner features section */}
+                    <section className="features">
+                
                     <h1>Features</h1>
 
                     <ul>
