@@ -77,6 +77,7 @@ const EventPlanner = () => {
                         <p>- Juan Dela Cruz</p>
                     </div>
 
+                    {/* Third testimonial */}
                     <div>
                         <h2>Greate Services!</h2>
                         <p>Everything was well organized and the service was excellent.</p>
