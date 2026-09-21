@@ -84,6 +84,8 @@ const EventPlanner = () => {
                         <p>- Ana Reyes</p>
                     </div>
                 </section>
+
+                {/* Contact section */}
                 <section className="contact">
                         <h2>Contact Us</h2>
 
