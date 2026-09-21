@@ -18,6 +18,7 @@ const EventPlanner = () => {
                 </button>
             </section>
         
+            {/* Event categories section */}
             <section className="events_categories">
 
                 <ul>
